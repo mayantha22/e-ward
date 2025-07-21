@@ -1,1 +1,1 @@
-# e-ward Hospital mnagemnet system
+# e-ward Hospital managemnet system
